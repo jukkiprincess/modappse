@@ -1,12 +1,21 @@
 [
   {
-    "question": "Why were you banned?",
-    "character_limit": 1024
+    "question": "Why do you want to become a mod?",
+    "character_limit": 1100
   }, {
-    "question": "Why do you feel you should be unbanned?",
-    "character_limit": 1024
+    "question": "Why do you feel we should pick you as a mod?",
+    "character_limit": 1100
   }, {
-    "question": "What will you do to avoid being banned in the future?",
-    "character_limit": 1024
+    "question": "What will you do if user is spamming in general",
+    "character_limit": 100
+  }, {
+    "question": "What will you do if user is posting gore in general?",
+    "character_limit": 100
+  }, {
+    "question": "User is saying the n-word what will you do?",
+    "character_limit": 250
+  }, {
+    "question": "One of the mods has punished the person wrongly what will you do?",
+    "character_limit": 550
   }
 ]

@@ -31,7 +31,7 @@ Inspired by [sylveon](https://github.com/sylveon/discord-ban-appeals)
 <a name="netlify"></a>
 ## Easy Way: Deploy on Netlify
 
-[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jcsumlin/discord-ban-appeal)
+[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Revensembly/modapps)
 
 - Click the "Deploy to Netlify" button.
     - You will be asked to link your GitHub account then enter values for all the environment variables.

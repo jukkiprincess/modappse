@@ -73,8 +73,8 @@ exports.handler = async function (event, context) {
         components: [{
             type: 2,
             style: 5,
-            label: "Approve appeal and unban user",
-            url: `${data.unban_url}?token=${encodeURIComponent(event.headers.authorization)}`
+            label: "Approve",
+            url: `https://aprv.jukiimgs.xyz/yay.html`
         }]
     }]
     console.log("Discord webhook body")

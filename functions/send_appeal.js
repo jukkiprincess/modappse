@@ -74,7 +74,7 @@ exports.handler = async function (event, context) {
             type: 2,
             style: 5,
             label: "Approve",
-            url: `https://aprv.jukiimgs.xyz/`
+            url: `https://approve.jukiimgs.xyz/`
         }]
     }]
     console.log("Discord webhook body")
